@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in Biomedical Engineering at the ISTBI (Institute of Science and Technology for Brain-Inspired Intelligence)(https://istbi.fudan.edu.cn), Fudan University, jointly supervised by Prof. Gunter Schumann and Prof. Xiahai Zhuang. 
+I am a second-year Ph.D. candidate in Biomedical Engineering at the Institute of Science and Technology for Brain-Inspired Intelligence [ISTBI](https://istbi.fudan.edu.cn), Fudan University, jointly supervised by Prof. Gunter Schumann and Prof. Xiahai Zhuang. 
 
  My research focuses on medical image analysis, protein mechanisms underlying brain neuroscience, and multi-omics analysis. I warmly welcome interested scholars to engage in academic exchange and discussion with me!
 
@@ -27,5 +27,5 @@ I am a second-year Ph.D. candidate in Biomedical Engineering at the ISTBI (Insti
 | 2020.09    | NCP Mathematical Model Design Competition     | Excellence Award (University-level) |
 | 2021.12    | National Scholarship                          | National-level Honor          |
 
-[Email](mailto:yuzhuli23@m.fudan.edu.cn)/[Github](https://github.com/crystal-catherine)/[CSDN](https://blog.csdn.net/weixin_52137590?type=blog)
+[Email](mailto:yuzhuli23@m.fudan.edu.cn) / [Github](https://github.com/crystal-catherine) / [CSDN](https://blog.csdn.net/weixin_52137590?type=blog)
 
