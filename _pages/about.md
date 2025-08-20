@@ -27,6 +27,5 @@ I am a second-year Ph.D. candidate in Biomedical Engineering at the ISTBI (Insti
 | 2020.09    | NCP Mathematical Model Design Competition     | Excellence Award (University-level) |
 | 2021.12    | National Scholarship                          | National-level Honor          |
 
-[Email](mailto:yuzhuli23@m.fudan.edu.cn)/[Github](https://github.com/crystal-catherine)/[CSDN]
-(https://blog.csdn.net/weixin_52137590?type=blog)
+[Email](mailto:yuzhuli23@m.fudan.edu.cn)/[Github](https://github.com/crystal-catherine)/[CSDN](https://blog.csdn.net/weixin_52137590?type=blog)
 
