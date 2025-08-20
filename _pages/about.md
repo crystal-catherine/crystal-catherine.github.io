@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in Biomedical Engineering at the Institute of Science and Technology for Brain-Inspired Intelligence [ISTBI](https://istbi.fudan.edu.cn), Fudan University, jointly supervised by Prof. Gunter Schumann and Prof. Xiahai Zhuang. 
+I am a second-year Ph.D. candidate in Biomedical Engineering at the Institute of Science and Technology for Brain-Inspired Intelligence [ISTBI](https://istbi.fudan.edu.cn), Fudan University, jointly supervised by [Prof. Gunter Schumann](https://istbi.fudan.edu.cn/info/1774/4598.htm) and [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/). 
 
  My research focuses on medical image analysis, protein mechanisms underlying brain neuroscience, and multi-omics analysis. I warmly welcome interested scholars to engage in academic exchange and discussion with me!
 
