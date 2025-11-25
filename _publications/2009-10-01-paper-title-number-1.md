@@ -6,10 +6,10 @@ permalink: /publication/2025-miccai-oral-uss-evidential-segmentation
 excerpt: 'This work proposes a novel uncertainty-supervised evidential segmentation framework that improves interpretability and robustness by explicitly aligh predicted uncertainty with human intuition.'
 date: 2025-08-20
 venue: 'MICCAI 2025 Oral'
-slidesurl: 'coming-soon'  # 暂无
-paperurl: 'coming-soon'   # 暂无 PDF，可后续替换
+slidesurl: 'coming-soon'  
+paperurl: 'https://arxiv.org/pdf/2509.17098'   
 codeurl: 'https://github.com/suiannaius/SURE'
-bibtexurl: ''  # 可选，后续添加 BibTeX 链接
+bibtexurl: 'https://link.springer.com/chapter/10.1007/978-3-032-05185-1_62'  
 citation: 'Yuzhu Li, An Sui, Fuping Wu, Xiahai Zhuang. (2025). "Uncertainty-Supervised Interpretable and Robust Evidential Segmentation." <i>MICCAI 2025 Oral</i>.'
 ---
 
